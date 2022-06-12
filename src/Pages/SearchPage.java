@@ -8,7 +8,6 @@ public class SearchPage {
         System.out.println("Search Item found");
         System.out.println("Hi");
         System.out.println("Hello");
-        System.out.println("Bye");
     }
 
 }
