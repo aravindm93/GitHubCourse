@@ -7,5 +7,10 @@ public class RegPage {
 
     public static void main(String[] args) {
         System.out.println("Reg successful");
+
+        while(true) {
+            System.out.println("Hi");
+            break;
+        }
     }
 }
