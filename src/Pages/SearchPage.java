@@ -6,6 +6,7 @@ public class SearchPage {
         System.out.println("Search");
         System.out.println("No Item Found");
         System.out.println("Search Item found");
+        System.out.println("Hi");
     }
 
 }
