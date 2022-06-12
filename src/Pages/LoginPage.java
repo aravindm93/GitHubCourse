@@ -1,7 +1,7 @@
 package Pages;
 
 public class LoginPage {
-
+    String title = "Login Page";
    public static void main(String [] args) {
        System.out.println("Hello Login Page");
        String un = "admin";
