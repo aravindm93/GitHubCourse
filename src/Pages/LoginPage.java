@@ -8,7 +8,7 @@ public class LoginPage {
        String pwd = "test123";
        System.out.println("User logged in");
        System.out.println("User logged out");
-       System.out.println("Forgot password");
+
 
    }
 
