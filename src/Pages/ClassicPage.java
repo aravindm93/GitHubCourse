@@ -8,4 +8,5 @@ public class ClassicPage {
         System.out.println(sub);
 
         System.out.println("Bye");
+        int sal = 150000;
     }}
