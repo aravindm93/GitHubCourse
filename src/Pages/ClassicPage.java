@@ -12,5 +12,6 @@ public class ClassicPage {
         int sal = 250000;
 
         System.out.println("Hi Classic Page");
+        String name = "Aravind";
 
     }}
