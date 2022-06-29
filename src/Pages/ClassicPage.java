@@ -2,8 +2,8 @@ package Pages;
 
 public class ClassicPage {
     public void classic() {
-        int a = 10;
-        int b = 20;
-        int c = a + b;
-        System.out.println(c);
+        int x = 100;
+        int y = 200;
+        int sub = y - x;
+        System.out.println(sub);
     }}
