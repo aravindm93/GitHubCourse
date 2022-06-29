@@ -14,4 +14,10 @@ public class ClassicPage {
         System.out.println("Hi Classic Page");
         String name = "Aravind";
 
-    }}
+    }
+    public void master() {
+        System.out.println("Hi Master")
+    }
+
+
+}
