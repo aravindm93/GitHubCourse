@@ -9,5 +9,8 @@ public class ClassicPage {
 
         System.out.println("Bye");
         int age = 29;
-        int sal = 120000;
+        int sal = 250000;
+
+        System.out.println("Hi Classic Page");
+
     }}
