@@ -6,4 +6,6 @@ public class ClassicPage {
         int y = 200;
         int sub = y - x;
         System.out.println(sub);
+
+        System.out.println("Bye");
     }}
