@@ -13,6 +13,7 @@ public class ClassicPage {
 
         System.out.println("Hi Classic Page");
         String name = "Aravind";
+        int weight = 60;
 
     }
     public void master() {
